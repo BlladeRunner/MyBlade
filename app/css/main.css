@@ -1,17 +1,5 @@
 body {
-  background-color: black; }
+  background-color: cyan; }
 
 h1 {
-  text-align: center;
-  color: gold;
-  margin-bottom: 50px;
-  margin-top: 50px; }
-
-div {
-  text-align: center;
-  color: red;
-  font-size: 25px;
-  border: solid 2px cyan;
-  -webkit-border-radius: 10px;
-          border-radius: 10px;
-  margin-bottom: 100px; }
+  color: red; }
